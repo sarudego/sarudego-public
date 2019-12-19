@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>about on Sarudego&#39;s web</title>
+    <link>https://sarudego.es/tags/about/</link>
+    <description>Recent content in about on Sarudego&#39;s web</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 18 Dec 2019 13:59:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://sarudego.es/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://sarudego.es/about/</link>
+      <pubDate>Wed, 18 Dec 2019 13:59:05 -0400</pubDate>
+      
+      <guid>https://sarudego.es/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
