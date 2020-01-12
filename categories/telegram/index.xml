@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>telegram on Sarudego&#39;s web</title>
-    <link>https://sarudego.es/categories/telegram/</link>
+    <link>https://sarudego.github.io/categories/telegram/</link>
     <description>Recent content in telegram on Sarudego&#39;s web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 12 Dec 2019 14:34:13 -0400</lastBuildDate>
     
-	<atom:link href="https://sarudego.es/categories/telegram/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sarudego.github.io/categories/telegram/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>A telegram bot</title>
-      <link>https://sarudego.es/blog/first-telegram-bot/</link>
+      <link>https://sarudego.github.io/blog/first-telegram-bot/</link>
       <pubDate>Thu, 12 Dec 2019 14:34:13 -0400</pubDate>
       
-      <guid>https://sarudego.es/blog/first-telegram-bot/</guid>
+      <guid>https://sarudego.github.io/blog/first-telegram-bot/</guid>
       <description>As a user of the Zaragoza bus service, I&#39;ve used several applications to get bus times, but fed up with the failures or malfunction, along with my desire to make bots for telegram, I decided to make my own bot to obtain the data of the buses using the Public API of Zaragoza.
 This is how I made my first bot.
 First the language and the basic objectives:

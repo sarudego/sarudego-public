@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>projects on Sarudego&#39;s web</title>
-    <link>https://sarudego.es/categories/projects/</link>
+    <link>https://sarudego.github.io/categories/projects/</link>
     <description>Recent content in projects on Sarudego&#39;s web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 18 Dec 2019 14:20:05 -0400</lastBuildDate>
     
-	<atom:link href="https://sarudego.es/categories/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sarudego.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>uCode Adidas 2017</title>
-      <link>https://sarudego.es/projects/ucode-adidas/</link>
+      <link>https://sarudego.github.io/projects/ucode-adidas/</link>
       <pubDate>Wed, 18 Dec 2019 14:20:05 -0400</pubDate>
       
-      <guid>https://sarudego.es/projects/ucode-adidas/</guid>
+      <guid>https://sarudego.github.io/projects/ucode-adidas/</guid>
       <description>First hackathon held at the School of Engineering and Architecture of the University of Zaragoza, aimed at students at the national level offered by Adidas. uCode
 The challenges were offered by different companies and aimed at using artificial intelligence in different environments. We focused on the challenge offered by Adidas itself to identify shoes, in the way and with the purpose that each one wanted.
 Access was offered to the Institute of Biocomputation and Complex Systems Physics (BIFI), so that the Cloud infrastructure of the Aragon Supercomputing Center (CESAR) could be used.</description>
@@ -24,10 +24,10 @@ Access was offered to the Institute of Biocomputation and Complex Systems Physic
     
     <item>
       <title>Autonomous Mobile Robots</title>
-      <link>https://sarudego.es/projects/mobile-robots/</link>
+      <link>https://sarudego.github.io/projects/mobile-robots/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sarudego.es/projects/mobile-robots/</guid>
+      <guid>https://sarudego.github.io/projects/mobile-robots/</guid>
       <description>Autonomous Mobile Robots is the course of the University Jaume I (mooc) using Jupyter Notebooks and the simulator The Construct
 In this course i have learned to program the control of an autonomous robot with a simulator of the Pioneer P3 - DX mobile robot.
 Video presentation of the course in youtube</description>
@@ -35,10 +35,10 @@ Video presentation of the course in youtube</description>
     
     <item>
       <title>Nasa Hackathon</title>
-      <link>https://sarudego.es/projects/nasa-hackathon/</link>
+      <link>https://sarudego.github.io/projects/nasa-hackathon/</link>
       <pubDate>Wed, 18 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sarudego.es/projects/nasa-hackathon/</guid>
+      <guid>https://sarudego.github.io/projects/nasa-hackathon/</guid>
       <description>First great hackathon in which I participate with a pre-established team, in this case offered by NASA.
 We wanted to make our own project, so we made an android application that helped to identify the recyclable objects showing at the same time how much material and carbon emissions are saved in relation to the type of object to be recycled.
 At the same time it shows the container in which to recycle it, so that even small children can use the application, and compete with their friends to get better scores.</description>
